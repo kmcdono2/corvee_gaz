@@ -1,4 +1,4 @@
-# Code related to development of gazetteer of 18th c. places in Bretagne (France)
+### Code related to development of gazetteer of 18th c. places in Bretagne (France)
 ##### Including:
 R scripts for 
 - merging Ogée place names with INSEE data
